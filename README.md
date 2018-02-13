@@ -65,3 +65,19 @@ http://www.freesound.org/people/rockwehrmann/sounds/72475/
 http://www.freesound.org/people/marcgascon7/sounds/87778/
 
 http://www.freesound.org/people/jcveliz/sounds/92002/
+
+### Errata, Examples & Additional Information
+
+http://bit.ly/think-dsp
+
+### Notes ISBN 978-1-491-93845-4: 
+
+http://continuum.io/downloads (Anaconda, with NumPy, SciPy and matplotlib inbuilt)
+
+http://jupyter.org/
+
+http://greenteapress.com/thinkdsp.html (methods documentation)
+
+http://tinyurl.com/thinkdsp01  (chap01.ipynb)
+
+http://tinyurl.com/thinkdsp02  (chap02.ipynb)
